@@ -145,6 +145,7 @@ void clsGame::LoadData()
 void clsGame::Render()
 {
 	//コメントが追加されてるか確認する.
+	//111111111111111111111111111
 	//画面ｸﾘｱ.
 	m_pDirect3D->SetBuffer();
 	//カメラとプロジェクションの設定.
