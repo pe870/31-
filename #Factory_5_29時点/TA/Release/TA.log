@@ -1,0 +1,55 @@
+﻿  compilation object save succeeded; see C:\Users\dere\Desktop\i-Seifu_Takada\トーセ\i-Seifu_Takada\B-Adventure\開発環境\Release\DebugText.cso
+C:\Users\dere\Desktop\i-Seifu_Takada\�g?E�Z\i-Seifu_Takada\B-Adventure\�J����\TA\Shader\Mesh.hlsl(39,2-32): warning X3206: implicit truncation of vector type
+  compilation object save succeeded; see C:\Users\dere\Desktop\i-Seifu_Takada\トーセ\i-Seifu_Takada\B-Adventure\開発環境\Release\Mesh.cso
+C:\Users\dere\Desktop\i-Seifu_Takada\�g?E�Z\i-Seifu_Takada\B-Adventure\�J����\TA\Shader\Mesh.hlsl(43,2-27): warning X3206: implicit truncation of vector type
+C:\Users\dere\Desktop\i-Seifu_Takada\�g?E�Z\i-Seifu_Takada\B-Adventure\�J����\TA\Shader\Mesh.hlsl(45,9-33): warning X3206: implicit truncation of vector type
+C:\Users\dere\Desktop\i-Seifu_Takada\�g?E�Z\i-Seifu_Takada\B-Adventure\�J����\TA\Shader\Mesh.hlsl(46,21-37): warning X3206: implicit truncation of vector type
+C:\Users\dere\Desktop\i-Seifu_Takada\�g?E�Z\i-Seifu_Takada\B-Adventure\�J����\TA\Shader\Mesh.hlsl(53,30-44): warning X3206: implicit truncation of vector type
+C:\Users\dere\Desktop\i-Seifu_Takada\�g?E�Z\i-Seifu_Takada\B-Adventure\�J����\TA\Shader\Mesh.hlsl(81,2-32): warning X3206: implicit truncation of vector type
+C:\Users\dere\Desktop\i-Seifu_Takada\�g?E�Z\i-Seifu_Takada\B-Adventure\�J����\TA\Shader\Mesh.hlsl(85,2-27): warning X3206: implicit truncation of vector type
+C:\Users\dere\Desktop\i-Seifu_Takada\�g?E�Z\i-Seifu_Takada\B-Adventure\�J����\TA\Shader\Mesh.hlsl(87,9-33): warning X3206: implicit truncation of vector type
+C:\Users\dere\Desktop\i-Seifu_Takada\�g?E�Z\i-Seifu_Takada\B-Adventure\�J����\TA\Shader\Mesh.hlsl(88,21-37): warning X3206: implicit truncation of vector type
+C:\Users\dere\Desktop\i-Seifu_Takada\�g?E�Z\i-Seifu_Takada\B-Adventure\�J����\TA\Shader\Mesh.hlsl(95,30-44): warning X3206: implicit truncation of vector type
+  
+  compilation object save succeeded; see C:\Users\dere\Desktop\i-Seifu_Takada\トーセ\i-Seifu_Takada\B-Adventure\開発環境\Release\Ray.cso
+C:\Users\dere\Desktop\i-Seifu_Takada\�g?E�Z\i-Seifu_Takada\B-Adventure\�J����\TA\Shader\Simple.hlsl(43,18-44): warning X3206: 'mul': implicit truncation of vector type
+C:\Users\dere\Desktop\i-Seifu_Takada\�g?E�Z\i-Seifu_Takada\B-Adventure\�J����\TA\Shader\Simple.hlsl(44,2-27): warning X3206: implicit truncation of vector type
+C:\Users\dere\Desktop\i-Seifu_Takada\�g?E�Z\i-Seifu_Takada\B-Adventure\�J����\TA\Shader\Simple.hlsl(46,9-33): warning X3206: implicit truncation of vector type
+C:\Users\dere\Desktop\i-Seifu_Takada\�g?E�Z\i-Seifu_Takada\B-Adventure\�J����\TA\Shader\Simple.hlsl(47,21-37): warning X3206: implicit truncation of vector type
+C:\Users\dere\Desktop\i-Seifu_Takada\�g?E�Z\i-Seifu_Takada\B-Adventure\�J����\TA\Shader\Simple.hlsl(71,29-43): warning X3206: implicit truncation of vector type
+  
+  compilation object save succeeded; see C:\Users\dere\Desktop\i-Seifu_Takada\トーセ\i-Seifu_Takada\B-Adventure\開発環境\Release\Simple.cso
+  compilation object save succeeded; see C:\Users\dere\Desktop\i-Seifu_Takada\トーセ\i-Seifu_Takada\B-Adventure\開発環境\Release\Sprite2D.cso
+  cCommon.cpp
+  Charactor.cpp
+  C_Enemy.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  C_Object.cpp
+  C_Needle.cpp
+  C_Saw.cpp
+  C_Player.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  CRay.cpp
+  C_Square.cpp
+  C_Tikuwa.cpp
+  C_UpDown.cpp
+  DInput.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  DebugText.cpp
+c:\users\dere\desktop\i-seifu_takada\トーセ\i-seifu_takada\b-adventure\開発環境\ta\source\game\debugtext\debugtext.cpp(349): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+  Game.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  C_LoadData.cpp
+  Main.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  CResource.cpp
+  Sound.cpp
+  BoardPolygon.cpp
+  DX9Mesh.cpp
+c:\users\dere\desktop\i-seifu_takada\トーセ\i-seifu_takada\b-adventure\開発環境\ta\source\game\sprite\dx9mesh.cpp(360): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+  コンパイル中...
+  UI.cpp
+  コード生成しています。
+  All 273 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  コード生成が終了しました。
+  TA.vcxproj -> C:\Users\dere\Desktop\i-Seifu_Takada\トーセ\i-Seifu_Takada\B-Adventure\開発環境\Release\B-Adv.exe
